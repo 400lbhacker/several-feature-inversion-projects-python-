@@ -15,7 +15,9 @@ here is an example of the places365:
 
 here is an example of the original inception:
 ![Image of incept](https://i.ibb.co/XxBJ35Z/8888.png)
-
+the glossyness/shinyness can be reduced by finding the following line in the second code box and changing n_steps to 512
+I was trying to create a watercolor-like filter, but You may want to have it sharper.
+def feature_inversion(img=None, layer=None, n_steps=2000, cossim_pow=0.0):
 
 You can dive quickly into the projects by running them online with the following links:
 
