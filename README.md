@@ -10,6 +10,7 @@ features/changes:
 4) Organized the code better and fix some mild redundancies.
 
 here is an example of the places365:
+
 ![Image of placest](https://i.ibb.co/H7Lb7FS/9999.png)
 
 here is an example of the original inception:
