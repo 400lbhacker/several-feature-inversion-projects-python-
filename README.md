@@ -1,3 +1,12 @@
+
+EDIT: 
+
+awhile ago the feature attribution abilities of Lucid were broken. I have found a fix! please review the following working examples I have created:
+
+https://colab.research.google.com/github/400lbhacker/several-feature-inversion-projects-python-/blob/main/FIXXED_FEATURE_ATTRIBUTION(LUCID_2022).ipynb
+
+https://colab.research.google.com/github/400lbhacker/several-feature-inversion-projects-python-/blob/main/FIXXED-feature_inversion_caffe_Places365_deepstyle.ipynb
+
 # several-feature-inversion-projects-python-
 several feature-inversion projects (python). Deep-photo implementation using lucid library.
 Included is the default inception model example, but I created a places365 version which I
@@ -20,17 +29,8 @@ I was trying to create a watercolor-like filter, but You may want to have it sha
 def feature_inversion(img=None, layer=None, n_steps=2000, cossim_pow=0.0):
 
 You can dive quickly into the projects by running them online with the following links:
-
-original inception colab:
-https://colab.research.google.com/github/400lbhacker/several-feature-inversion-projects-python-/blob/main/Feature_Inversion_with_Lucid.ipynb
-
-places365 colab:
-https://colab.research.google.com/github/400lbhacker/several-feature-inversion-projects-python-/blob/main/caffe_Places365_feature_inversion_deepstyle.ipynb
-
-
-github: https://github.com/400lbhacker
-
-facebook: https://www.facebook.com/profile.php?id=100071896345565
+ 
+facebook: hhttps://www.facebook.com/profile.php?id=100081718234115
 
 gmail: josepherickson135@gmail.com
 
